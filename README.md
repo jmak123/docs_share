@@ -7,7 +7,7 @@ Parse field descriptions in Looker *views* where `sql` is unaltered then update 
 Not available in PyPi, so just install using 
 
 ```
-pip install git+ssh://git@github.com/jmak123/lkml@master
+pip install git+ssh://git@github.com/jmak123/docs_share@master
 ```
 
 # Usage
