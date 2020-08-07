@@ -14,9 +14,7 @@ setup(
         ]
     },
     install_requires=[
-        "bandit",
         "black",
-        "flake8",
         "pytest",
         "pyyaml==5.3.1",
         "lkml @ git+ssh://git@github.com/jmak123/lkml@master",
