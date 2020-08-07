@@ -1,0 +1,5 @@
+*lkml/*
+.venv/*
+*cache*
+*egg-info*
+*.vscode*

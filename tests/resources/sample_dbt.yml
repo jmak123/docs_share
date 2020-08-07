@@ -1,0 +1,15 @@
+version: 2
+models:
+- name: active_users_summary_detailed
+  columns:
+  - name: id
+    description: test test
+- name: active_users
+  columns:
+  - name: id2
+    description: "blah blah"
+- name: active_user_summary
+  columns:
+  - name: active_30_days
+    description: blah blah
+
